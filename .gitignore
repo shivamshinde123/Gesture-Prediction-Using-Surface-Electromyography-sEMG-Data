@@ -2,7 +2,7 @@
 Data/
 
 # virtual environment
-qsar_env/
+gesture_pred/
 
 # catboost regressor metadata
 Experimentation/catboost_info
